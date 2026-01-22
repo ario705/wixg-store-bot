@@ -1,1 +1,14 @@
-
+{
+  "name": "wixg-store-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp WIXG STORE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.0"
+  }
+}
